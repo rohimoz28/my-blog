@@ -1,7 +1,8 @@
-baseURL = ''
+baseURL = 'https://rohimoz28.github.io/my-blog'
 languageCode = 'en-us'
 title = 'Rohimoz28'
 theme = 'PaperMod'
+publishDir = "docs"
 
 [cover]
 
